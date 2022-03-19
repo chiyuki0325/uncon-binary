@@ -1,2 +1,4 @@
 # uncon-binary
-Uncon binaries 无界投屏二进制包
+Uncon Linux binaries for the ArchLinux AUR package
+
+https://aur.archlinux.org/packages/uncon-bin
